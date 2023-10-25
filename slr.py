@@ -64,7 +64,7 @@ r2=r2_score(y_test,y_pred)
 
 print(f'mean square error is {mse} and r2 score is {r2}')
 
-
+mse=20
 # In[ ]:
 
 
